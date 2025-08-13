@@ -42,11 +42,11 @@ Here are some ideas to get you started:
  </p>
 
 ## 📊 Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussama-si&show_icons=true&locale=en&layout=compact" alt="oussama-si" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oussama-SI&show_icons=true&locale=en&layout=compact" alt="Oussama-SI" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussama-si&show_icons=true&locale=en" alt="oussama-si" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oussama-SI&show_icons=true&locale=en" alt="oussama-si" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-si&" alt="oussama-si" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Oussama-SI&" alt="Oussama-SI" /></p>
 
 ###
 
