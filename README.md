@@ -24,60 +24,32 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Oussama-SI" alt="Oussama-SI" /></a> </p>
 
 ## 🛠️ Data Engineering & DataOps Stack
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.terraform.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a>
-  <a href="https://www.prefect.io" target="_blank"><img src="https://raw.githubusercontent.com/PrefectHQ/prefect/main/docs/img/logo-gradient.png" alt="Prefect" width="40" height="40"/></a>
-  <a href="https://airflow.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/></a>
-  <a href="https://spark.apache.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40"/></a>
-  <a href="https://www.getdbt.com" target="_blank"><img src="https://raw.githubusercontent.com/dbt-labs/dbt/develop/etc/dbt-logo-full.svg" alt="dbt" width="40" height="40"/></a>
-  <a href="https://hevodata.com" target="_blank"><img src="https://hevodata.com/static/media/hevo-logo.6e0f6b6a.svg" alt="Hevo Data" width="40" height="40"/></a>
-  <a href="https://fivetran.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fivetran-1.svg" alt="Fivetran" width="40" height="40"/></a>
-  <a href="https://kafka.apache.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/></a>
-  <a href="https://www.montecarlodata.com/" target="_blank"><img src="https://www.montecarlodata.com/wp-content/themes/montecarlo/assets/img/mc-logo.svg" alt="Monte Carlo" width="40" height="40"/></a>
-  <a href="https://www.datafold.com" target="_blank"><img src="https://www.datafold.com/hubfs/Datafold%20Logo/df-logo.svg" alt="Datafold" width="40" height="40"/></a>
-  <a href="https://delta.io" target="_blank"><img src="https://delta.io/images/logo_delta.svg" alt="Delta Lake" width="40" height="40"/></a>
-  <a href="https://www.databricks.com" target="_blank"><img src="https://www.databricks.com/wp-content/themes/databricks/assets/images/databricks-logo-square.svg" alt="Databricks" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/redshift/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="Redshift" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/bigquery" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="BigQuery" width="40" height="40"/></a>
-  <a href="https://www.snowflake.com" target="_blank"><img src="https://www.snowflake.com/wp-content/themes/snowflake/assets/snowflake-logo-blue.svg" alt="Snowflake" width="40" height="40"/></a>
-</div>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ## 🤖 AI & LLM Stack
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" alt="LangChain" width="40" height="40"/></a>
-  <a href="https://python.langchain.com/docs/langsmith" target="_blank"><img src="https://docs.smith.langchain.com/img/langsmith_logo.png" alt="LangSmith" width="40" height="40"/></a>
-  <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://raw.githubusercontent.com/run-llama/llama_index/main/docs/docs/_static/logo.png" alt="LlamaIndex" width="40" height="40"/></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="OpenAI" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
-  <a href="https://www.anthropic.com/" target="_blank"><img src="https://www.anthropic.com/_next/static/media/claude-logo.3d939e78.svg" alt="Claude" width="40" height="40"/></a>
-  <a href="https://www.together.ai/" target="_blank"><img src="https://www.together.ai/logo.svg" alt="Together AI" width="40" height="40"/></a>
-  <a href="https://www.replicate.com/" target="_blank"><img src="https://replicate.com/static/logo.svg" alt="Replicate" width="40" height="40"/></a>
-  <a href="https://www.pinecone.io/" target="_blank"><img src="https://www.pinecone.io/static/img/pinecone-logo.svg" alt="Pinecone" width="40" height="40"/></a>
-  <a href="https://weaviate.io/" target="_blank"><img src="https://weaviate.io/img/weaviate-logo.svg" alt="Weaviate" width="40" height="40"/></a>
-  <a href="https://qdrant.tech/" target="_blank"><img src="https://qdrant.tech/img/logo.svg" alt="Qdrant" width="40" height="40"/></a>
-  <a href="https://chromadb.com/" target="_blank"><img src="https://docs.trychroma.com/img/chroma.svg" alt="ChromaDB" width="40" height="40"/></a>
-  <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/></a>
-  <a href="https://gradio.app/" target="_blank"><img src="https://gradio.app/img/gradio_logo.svg" alt="Gradio" width="40" height="40"/></a>
-  <a href="https://www.llamafile.ai/" target="_blank"><img src="https://raw.githubusercontent.com/Mozilla-Ocho/llamafile/main/llamafile.png" alt="Llamafile" width="40" height="40"/></a>
-  <a href="https://ollama.com/" target="_blank"><img src="https://ollama.com/public/ollama.png" alt="Ollama" width="40" height="40"/></a>
-  <a href="https://www.vllm.ai/" target="_blank"><img src="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/source/assets/logos/vllm-logo-text-light.png" alt="vLLM" width="40" height="40"/></a>
-  <a href="https://github.com/ggerganov/llama.cpp" target="_blank"><img src="https://raw.githubusercontent.com/ggerganov/llama.cpp/master/ggml/logo/logo.png" alt="llama.cpp" width="40" height="40"/></a>
-  <a href="https://microsoft.github.io/autogen/" target="_blank"><img src="https://microsoft.github.io/autogen/0.2/img/autogen_logo.png" alt="AutoGen" width="40" height="40"/></a>
-  <a href="https://www.langflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/langflow-ai/langflow/dev/docs/docs/assets/langflow-logo.png" alt="LangFlow" width="40" height="40"/></a>
-  <a href="https://flowiseai.com/" target="_blank"><img src="https://flowiseai.com/favicon.ico" alt="Flowise" width="40" height="40"/></a>
-  <a href="https://www.ragas.io/" target="_blank"><img src="https://www.ragas.io/_next/static/media/ragas_logo.2dc9e033.svg" alt="Ragas" width="40" height="40"/></a>
-  <a href="https://www.phidata.com/" target="_blank"><img src="https://www.phidata.com/logo.svg" alt="PhiData" width="40" height="40"/></a>
-</div>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FFB600?style=for-the-badge&logo=gradio&logoColor=black)
 
 <br clear="both">
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oussama-SI&show_icons=true&locale=en&layout=compact" alt="Oussama-SI" /></p>-->
