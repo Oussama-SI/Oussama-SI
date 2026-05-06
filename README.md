@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/achrafedd/achrafedd/assets/69601953/d2a17437-0777-4d1c-b600-d1e2dd30af2f" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-si&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-si" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Oussama-SI" alt="Oussama-SI" /></a> </p>
-
 ## 🛠️ Data Engineering & DataOps Stack
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -52,6 +48,10 @@ Here are some ideas to get you started:
 ![Gradio](https://img.shields.io/badge/Gradio-FFB600?style=for-the-badge&logo=gradio&logoColor=black)
 
 <br clear="both">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-si&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-si" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Oussama-SI" alt="Oussama-SI" /></a> </p>
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oussama-SI&show_icons=true&locale=en&layout=compact" alt="Oussama-SI" /></p>-->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oussama-SI&show_icons=true&locale=en" alt="oussama-si" /></p>-->
